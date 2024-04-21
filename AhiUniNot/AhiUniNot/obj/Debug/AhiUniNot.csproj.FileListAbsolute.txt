@@ -1,0 +1,16 @@
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\bin\Debug\AhiUniNot.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\bin\Debug\AhiUniNot.exe
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\bin\Debug\AhiUniNot.pdb
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.exe
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.pdb
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.FrmOgrenciNotlar.resources
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.FrmOgretmen.resources
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.FrmKulupler.resources
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.FrmDersler.resources
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.FrmOgrenci.resources
+C:\Users\iskit\Desktop\Udemy_Project\AhiUniNot\AhiUniNot\obj\Debug\AhiUniNot.FrmSınavNotlar.resources
